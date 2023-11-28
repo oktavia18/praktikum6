@@ -2,7 +2,7 @@
 ## PROFIL
 | Variable | Isi |
 | -------- | --- |
-| **Nama** | Oktavia rizkha Kurniawati |
+| **Nama** | Oktavia Rizkha Kurniawati |
 | **NIM** | 312310509 |
 | **Kelas** | TI.23.A.5 |
 | **Mata Kuliah** | Bahasa Pemrograman |
