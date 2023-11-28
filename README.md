@@ -145,7 +145,7 @@ for z in list.items():
 
 
 ### Flowchart
-<p align="center"><img src="praktikum 5/flow chart.png">
+![alt text](https://github.com/oktavia18/praktikum6/blob/main/Oktavia_flowchart%20pertermuan10.pdf?raw=true)
 
 *********************************************************
 
